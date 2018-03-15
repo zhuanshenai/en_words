@@ -32,5 +32,19 @@
 	"calling": "调用",
 	"forms": "形式",
 	"attach": "附加",
-	"legacy": "遗产、遗留"
+	"legacy": "遗产、遗留",
+	"remote": "远程、遥远的",
+	"tutorial": "教程",
+	"index": "索引",
+	"examine": "检查",
+	"revision": "校正、修订",
+	"bisect": "平分",
+	"binary": "二进制",
+	"concept": "观念、概念",
+	"synopsis": "摘要、大纲",
+	"instead": "而不是、相反",
+	"primarily": "主要、首先",
+	"fetch": "获取",
+	"prefer to": "更喜欢、宁愿",
+	"manual": "手册、指南"
 }
