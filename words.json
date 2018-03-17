@@ -4,7 +4,6 @@
 	"aborts": "中止",
 	"discard": "丢弃",
 	"compress": "压缩",
-	"remote": "远程",
 	"dialog": "对话框",
 	"notification": "通知",
 	"alternative": "可选择的、可替代的、替代",
@@ -46,5 +45,18 @@
 	"primarily": "主要、首先",
 	"fetch": "获取",
 	"prefer to": "更喜欢、宁愿",
-	"manual": "手册、指南"
+	"manual": "手册、指南",
+	"ancient": "古老的",
+	"attempt": "尝试、企图、攻击",
+	"lean": "精益",
+	"awesome": "极好的、太棒了",
+	"concise": "简洁的、简明的",
+	"implement": "实现",
+	"level up": "提高",
+	"at some point": "在某种程度上",
+	"check out": "检验、看看",
+	"distribution": "分布、分配",
+	"trigger": "触发、引起",
+	"career": "事业、职业、生涯",
+	"external": "外部、表面的"
 }
