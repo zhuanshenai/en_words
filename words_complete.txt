@@ -1,29 +1,26 @@
 inspiration
-compress
-remote
-edit
-compatible
-abort
 amend
+abort
 discard
+compress
 dialog
 notification
 alternative
 sponser
 stuff
+edit
 released
-grab
-achievable
-efficiency
-perfom
-only with
 the same as
+only with
+efficiency
+achievable
 calling
-forms
-attach
 legacy
+attach
 tutorial
+forms
 index
 binary
 prefer to
 manual
+remote
