@@ -31,11 +31,7 @@ minimalist
 counterparts
 concentrate
 grab
-specifically
 minify
-estimate
-detect
-perform
 functionally
 examine
 revision
@@ -47,7 +43,6 @@ fetch
 ancient
 attempt
 lean
-awesome
 level up
 at some point
 check out
@@ -62,5 +57,60 @@ sequence
 multiple
 graph
 configurable
-incredibly
 specify
+
+#############
+be going to
+bootstrap
+usage
+extremely
+optimize
+alias
+throughtout
+estimate
+perform
+specifically
+awesome
+incredibly
+leverage
+versatile
+manipulate
+implement
+external
+rapid
+stale
+feature
+context
+isolated
+instance
+internally
+prior
+verbose
+overlay
+poll
+fancy
+utility
+process
+
+#############
+assume
+interface
+come across
+community
+dynamically
+parameter
+blank
+compilation
+determine
+complicated
+asset
+besides
+other than
+in addition to
+detect 
+synopsis
+overview
+concise
+emit
+properly
+tweak
